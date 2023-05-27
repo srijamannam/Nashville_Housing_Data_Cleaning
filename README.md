@@ -1,4 +1,6 @@
-SQL Cleaning 
+Data Wrangling
+
+The dataset is provided above, the following was done to clean the dataset
 
 1) Established a consistent format for dates
 2) Populated property address data
